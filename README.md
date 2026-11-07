@@ -1,7 +1,7 @@
 # eyu-2026-diy-spectrometer
 
 DIY spectrometer! This project is collection of resources and files to build a
-DIY spectrometer. License is LGPL3.
+DIY spectrometer. License is GPL3.
 
 
 ## Contents:
